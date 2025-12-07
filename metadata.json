@@ -1,0 +1,5 @@
+{
+  "name": "stop watch",
+  "description": "A high-precision stopwatch featuring lap tracking and AI-generated insights about your time durations.",
+  "requestFramePermissions": []
+}
